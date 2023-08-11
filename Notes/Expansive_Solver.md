@@ -5,7 +5,7 @@
 <p style="margin-left:40px;">(1*3*2*1) = 6 String OrderOfOperations</p>
 <p>&nbsp;</p>
 <p><s>120 * 1296 * 24 = 3,732,480 total combinations</s></p>
-<p>120 * 1296 * 6 = 933,120</p>
+<p>120 * 1296 * 6 = 933,120 total combinations</p>
 <p>&nbsp;</p>
 <p>String of Strings-of-numbers (n1, n2, n3, n4, n5) [1, 2, 3, 4, &nbsp;5, 6]</p>
 <p>String of Strings-of-Operators ( O1, O2, O3, O4) [A, S, M, D, P, R]</p>
